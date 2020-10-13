@@ -1,0 +1,19 @@
+{
+    "name": "jesspinkman/db-manager",
+    "description": "Database Manager for Wordpress",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "JessPinkman",
+            "email": "serge.goncalves@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DBManager\\" : "src"
+        }
+    }
+}
