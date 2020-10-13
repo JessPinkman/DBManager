@@ -1,6 +1,6 @@
 <?php
 
-namespace database_manager;
+namespace DBManager;
 
 use wpdb;
 
